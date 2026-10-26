@@ -1,0 +1,50 @@
+{
+  "sourceCommit": "75278ffaa16c5d788cd4d06c47cb3dae45ae9a61",
+  "purpose": "Partial unchanged source snapshot for Reddit API review; not standalone or runnable",
+  "files": [
+    {
+      "file": "src/oauth.js",
+      "sha256": "82c027403bc2c95ac5698e3cbcf1d1ac587d0d3df21c34158a8010e3812dfbdb"
+    },
+    {
+      "file": "src/adapters.js",
+      "sha256": "72df4f10b9a6485f02834a5b44252df8b4080e7837ba8448e4971bd7412cf04f"
+    },
+    {
+      "file": "src/config.js",
+      "sha256": "aeaf41e9a441b769694112a7aa1ce65123f8f3150a911f8ae4983a3b5e78998f"
+    },
+    {
+      "file": "src/drafts.js",
+      "sha256": "5c6b0c314c4f590aa9014c4ef6b78eddfbaf824b85cadb96d1ff5c528e7c8c32"
+    },
+    {
+      "file": "src/store.js",
+      "sha256": "b654beba255790ac29587df59fa158cd4f2a5400f2b7d7fbb613cac4c20cfee0"
+    },
+    {
+      "file": "config/accounts.json",
+      "sha256": "54c8c685500ac2e6f64726912a2d74898d014a539a90d9acf3354e7a9622c7fb"
+    },
+    {
+      "file": "config/campaign.json",
+      "sha256": "ac10114faee8d47c047985a5883a9eb0e7cad9f53d216b94680a7117841b7ceb"
+    },
+    {
+      "file": "package.json",
+      "sha256": "f65aa4579185710f6874b1e2b33de052b0e55f6eb8684a6fe65d30bad63e79cd"
+    },
+    {
+      "file": "package-lock.json",
+      "sha256": "a640cd40baca98387b6881e0fd5baff93a3d84505fe2c461b4fc155a8893566b"
+    },
+    {
+      "file": ".env.example",
+      "sha256": "308022ee5c0ae80af5f3009afda355e21bad751674a5c26364e4007ca901d1f3"
+    },
+    {
+      "file": ".gitignore",
+      "sha256": "33e1ed8c7bb5428640f81af54450493dc9bb72002b2e2dce25f68329dfb04e92"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "youtube": { "label": "기존 브랜드 채널", "expectedIdEnv": "YOUTUBE_CHANNEL_ID" },
+  "x": { "handle": "caffeineZgames", "url": "https://x.com/caffeineZgames" },
+  "instagram": { "handle": "caffeineZgames", "url": "https://www.instagram.com/caffeineZgames/" },
+  "threads": { "handle": "caffeinezgames", "url": "https://www.threads.net/@caffeinezgames" },
+  "facebook": { "url": "https://www.facebook.com/profile.php?id=61596067042422", "candidateId": "61596067042422", "type": "unverified-profile-or-page" },
+  "reddit": { "handle": "caffeineZgames", "url": "https://www.reddit.com/user/caffeineZgames/" }
+}

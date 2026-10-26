@@ -1,0 +1,22 @@
+{
+  "name": "caffeine-zombie-marketing-studio",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=24.0.0"
+  },
+  "scripts": {
+    "start": "node src/cli.js serve",
+    "test": "node --test --test-concurrency=1",
+    "doctor": "node src/cli.js doctor",
+    "demo": "node src/cli.js demo",
+    "dry-run": "node src/cli.js dry-run",
+    "connect": "node src/cli.js connect",
+    "tick": "node src/cli.js tick"
+  },
+  "dependencies": {
+    "debug": "4.4.3",
+    "simple-oauth2": "5.1.0"
+  }
+}
